@@ -1,0 +1,333 @@
+Material: Third Age iron
+Artefact: Venator dagger
+Individual amount: 16
+Amount needed: 2
+Total: 32
+
+defaultdict(<class 'int'>, {'Third Age iron': 32})
+
+
+Material: Third Age iron
+Artefact: Venator light crossbow
+Individual amount: 12
+Amount needed: 2
+Total: 24
+
+defaultdict(<class 'int'>, {'Third Age iron': 56})
+
+
+Material: Third Age iron
+Artefact: Primis Elementis standard
+Individual amount: 12
+Amount needed: 2
+Total: 24
+
+defaultdict(<class 'int'>, {'Third Age iron': 80})
+
+
+Material: Third Age iron
+Artefact: Legionary gladius
+Individual amount: 10
+Amount needed: 2
+Total: 20
+
+defaultdict(<class 'int'>, {'Third Age iron': 100})
+
+
+Material: Third Age iron
+Artefact: Legionary square shield
+Individual amount: 8
+Amount needed: 2
+Total: 16
+
+defaultdict(<class 'int'>, {'Third Age iron': 116})
+
+
+Material: Third Age iron
+Artefact: Zarosian training dummy
+Individual amount: 16
+Amount needed: 3
+Total: 48
+
+defaultdict(<class 'int'>, {'Third Age iron': 164})
+
+
+Material: Third Age iron
+Artefact: Legatus pendant
+Individual amount: 16
+Amount needed: 4
+Total: 64
+
+defaultdict(<class 'int'>, {'Third Age iron': 228})
+
+
+Material: Third Age iron
+Artefact: Pontifex signet ring
+Individual amount: 16
+Amount needed: 4
+Total: 64
+
+defaultdict(<class 'int'>, {'Third Age iron': 292})
+
+
+Material: Third Age iron
+Artefact: Ceremonial mace
+Individual amount: 20
+Amount needed: 3
+Total: 60
+
+defaultdict(<class 'int'>, {'Third Age iron': 352})
+
+
+Material: Third Age iron
+Artefact: Pontifex censer
+Individual amount: 20
+Amount needed: 3
+Total: 60
+
+defaultdict(<class 'int'>, {'Third Age iron': 412})
+
+
+Material: Third Age iron
+Artefact: Zarosian ewer
+Individual amount: 52
+Amount needed: 2
+Total: 104
+
+defaultdict(<class 'int'>, {'Third Age iron': 516})
+
+
+Material: Third Age iron
+Artefact: Zarosian stein
+Individual amount: 16
+Amount needed: 2
+Total: 32
+
+defaultdict(<class 'int'>, {'Third Age iron': 548})
+
+
+Material: Third Age iron
+Artefact: Hookah pipe
+Individual amount: 10
+Amount needed: 3
+Total: 30
+
+defaultdict(<class 'int'>, {'Third Age iron': 578})
+
+
+Material: Third Age iron
+Artefact: Opulent wine goblet
+Individual amount: 14
+Amount needed: 4
+Total: 56
+
+defaultdict(<class 'int'>, {'Third Age iron': 634})
+
+
+Material: Third Age iron
+Artefact: Greater demon mask
+Individual amount: 6
+Amount needed: 3
+Total: 18
+
+defaultdict(<class 'int'>, {'Third Age iron': 652})
+
+
+Material: Third Age iron
+Artefact: Branding iron
+Individual amount: 14
+Amount needed: 2
+Total: 28
+
+defaultdict(<class 'int'>, {'Third Age iron': 680})
+
+
+Material: Third Age iron
+Artefact: Manacles
+Individual amount: 14
+Amount needed: 2
+Total: 28
+
+defaultdict(<class 'int'>, {'Third Age iron': 708})
+
+
+Material: Third Age iron
+Artefact: 'Lust' metal sculpture
+Individual amount: 16
+Amount needed: 3
+Total: 48
+
+defaultdict(<class 'int'>, {'Third Age iron': 756})
+
+
+Material: Third Age iron
+Artefact: Spiked dog collar
+Individual amount: 24
+Amount needed: 3
+Total: 72
+
+defaultdict(<class 'int'>, {'Third Age iron': 828})
+
+
+Material: Third Age iron
+Artefact: 'Torment' metal sculpture
+Individual amount: 20
+Amount needed: 2
+Total: 40
+
+defaultdict(<class 'int'>, {'Third Age iron': 868})
+
+
+Material: Third Age iron
+Artefact: Hellfire haladie
+Individual amount: 26
+Amount needed: 2
+Total: 52
+
+defaultdict(<class 'int'>, {'Third Age iron': 920})
+
+
+Material: Third Age iron
+Artefact: 'Possession' metal sculpture
+Individual amount: 44
+Amount needed: 2
+Total: 88
+
+defaultdict(<class 'int'>, {'Third Age iron': 1008})
+
+
+Material: Third Age iron
+Artefact: Trishula
+Individual amount: 20
+Amount needed: 2
+Total: 40
+
+defaultdict(<class 'int'>, {'Third Age iron': 1048})
+
+
+Material: Third Age iron
+Artefact: Tsutsaroth urumi
+Individual amount: 40
+Amount needed: 2
+Total: 80
+
+defaultdict(<class 'int'>, {'Third Age iron': 1128})
+
+
+Material: Third Age iron
+Artefact: 'Frying pan'
+Individual amount: 20
+Amount needed: 3
+Total: 60
+
+defaultdict(<class 'int'>, {'Third Age iron': 1188})
+
+
+Material: Third Age iron
+Artefact: Hallowed lantern
+Individual amount: 20
+Amount needed: 4
+Total: 80
+
+defaultdict(<class 'int'>, {'Third Age iron': 1268})
+
+
+Material: Third Age iron
+Artefact: Dominion javelin
+Individual amount: 30
+Amount needed: 2
+Total: 60
+
+defaultdict(<class 'int'>, {'Third Age iron': 1328})
+
+
+Material: Third Age iron
+Artefact: Dominarian device
+Individual amount: 22
+Amount needed: 3
+Total: 66
+
+defaultdict(<class 'int'>, {'Third Age iron': 1394})
+
+
+Material: Third Age iron
+Artefact: Fishing trident
+Individual amount: 30
+Amount needed: 3
+Total: 90
+
+defaultdict(<class 'int'>, {'Third Age iron': 1484})
+
+
+Material: Third Age iron
+Artefact: Ikovian gerege
+Individual amount: 36
+Amount needed: 4
+Total: 144
+
+defaultdict(<class 'int'>, {'Third Age iron': 1628})
+
+
+Material: Third Age iron
+Artefact: Toy war golem
+Individual amount: 36
+Amount needed: 2
+Total: 72
+
+defaultdict(<class 'int'>, {'Third Age iron': 1700})
+
+
+Material: Third Age iron
+Artefact: Prototype gravimeter
+Individual amount: 26
+Amount needed: 2
+Total: 52
+
+defaultdict(<class 'int'>, {'Third Age iron': 1752})
+
+
+Material: Third Age iron
+Artefact: Ourg tower/goblin cower shield
+Individual amount: 26
+Amount needed: 2
+Total: 52
+
+defaultdict(<class 'int'>, {'Third Age iron': 1804})
+
+
+Material: Third Age iron
+Artefact: Garagorshuun anchor
+Individual amount: 30
+Amount needed: 3
+Total: 90
+
+defaultdict(<class 'int'>, {'Third Age iron': 1894})
+
+
+Material: Third Age iron
+Artefact: Huzamogaarb chaos crown
+Individual amount: 34
+Amount needed: 3
+Total: 102
+
+defaultdict(<class 'int'>, {'Third Age iron': 1996})
+
+
+Material: Third Age iron
+Artefact: Saragorgak star crown
+Individual amount: 34
+Amount needed: 3
+Total: 102
+
+defaultdict(<class 'int'>, {'Third Age iron': 2098})
+
+
+Material: Third Age iron
+Artefact: Kal i kra mace
+Individual amount: 44
+Amount needed: 2
+Total: 88
+
+defaultdict(<class 'int'>, {'Third Age iron': 2186})
+
+
